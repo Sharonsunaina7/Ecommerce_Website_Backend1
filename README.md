@@ -18,34 +18,6 @@ The backend provides authentication, product management, order handling, file up
 
 ## 📂 Folder Structure
 
-ecommerce-backend/
-│
-├── server.js                # Entry point, starts the server
-├── package.json              # Dependencies & scripts
-├── .env                      # Environment variables (JWT secret, DB URI, etc.)
-├── uploads/                  # Stores local uploaded files
-│
-├── models/                   # Mongoose schemas
-│   ├── User.js               # User schema (with isAdmin flag)
-│   ├── Product.js            # Product schema with pricing options
-│   └── Order.js              # Order schema with items, total, status
-│
-├── routes/                   # Express routes
-│   ├── auth.js               # Register / login
-│   ├── product.js            # Product CRUD & pricing
-│   ├── order.js              # Order creation & status updates
-│   └── upload.js             # File uploads (local & S3)
-│
-├── middleware/
-│   └── auth.js               # JWT auth & admin middleware
-│
-├── utils/
-│   └── s3.js                 # AWS S3 upload helper
-│
-└── config/                   # Optional configs
-    └── db.js                 # MongoDB connection (if separated)
-
-
 ![Pathway:](https://github.com/Sharonsunaina7/Ecommerce_Website_Backend1/blob/main/pathway.png)
 
 ---
