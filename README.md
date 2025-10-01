@@ -1,14 +1,3 @@
-Got it 🚀 — let’s make your repository **clean, professional, and self-explanatory**. Below is a complete **README.md draft** you can paste into your repo. It includes:
-
-* Project overview
-* Tech stack
-* Folder structure (with explanation of each file)
-* Installation & setup instructions
-* Backend deliverables
-* API usage with the **curl test examples you gave** (plus sample outputs so others know what to expect)
-* Future improvements
-
----
 # 🛒 E-Commerce Printing Platform (Backend)
 
 This is the **backend service** for a custom e-commerce printing platform, built with the **MERN stack (MongoDB, Express, React, Node.js)**.  
