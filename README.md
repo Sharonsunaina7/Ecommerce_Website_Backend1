@@ -9,8 +9,6 @@ Got it 🚀 — let’s make your repository **clean, professional, and self-exp
 * Future improvements
 
 ---
-
-````markdown
 # 🛒 E-Commerce Printing Platform (Backend)
 
 This is the **backend service** for a custom e-commerce printing platform, built with the **MERN stack (MongoDB, Express, React, Node.js)**.  
@@ -31,7 +29,6 @@ The backend provides authentication, product management, order handling, file up
 
 ## 📂 Folder Structure
 
-```bash
 ecommerce-backend/
 │
 ├── server.js                # Entry point, starts the server
@@ -58,9 +55,9 @@ ecommerce-backend/
 │
 └── config/                   # Optional configs
     └── db.js                 # MongoDB connection (if separated)
-````
 
-[Pathway:](https://github.com/Sharonsunaina7/Ecommerce_Website_Backend1/blob/main/pathway.png)
+
+![Pathway:](https://github.com/Sharonsunaina7/Ecommerce_Website_Backend1/blob/main/pathway.png)
 
 ---
 
